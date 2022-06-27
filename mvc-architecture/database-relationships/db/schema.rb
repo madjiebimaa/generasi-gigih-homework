@@ -11,7 +11,6 @@
 # It's strongly recommended that you check this file into your version control system.
 
 ActiveRecord::Schema.define(version: 2022_04_02_012043) do
-
   create_table "chef_licenses", force: :cascade do |t|
     t.string "earn_date"
     t.string "chef_id"
@@ -37,5 +36,4 @@ ActiveRecord::Schema.define(version: 2022_04_02_012043) do
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
-
 end
