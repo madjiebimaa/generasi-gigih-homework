@@ -1,0 +1,92 @@
+Started GET "/items" for 127.0.0.1 at 2022-06-27 15:15:49 +0700
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ItemsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering items/index.html.erb within layouts/application
+  [1m[36mItem Load (0.3ms)[0m  [1m[34mSELECT "items".* FROM "items"[0m
+  ↳ app/views/items/index.html.erb:10
+  Rendered items/index.html.erb within layouts/application (Duration: 30.1ms | Allocations: 10676)
+  Rendered layout layouts/application.html.erb (Duration: 211.8ms | Allocations: 80834)
+Completed 200 OK in 230ms (Views: 214.9ms | ActiveRecord: 0.8ms | Allocations: 87833)
+
+
+Started DELETE "/items/1" for 127.0.0.1 at 2022-06-27 15:15:53 +0700
+Processing by ItemsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "id"=>"1"}
+  [1m[36mItem Load (0.3ms)[0m  [1m[34mSELECT "items".* FROM "items" WHERE "items"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/items_controller.rb:34:in `destroy'
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/items_controller.rb:35:in `destroy'
+  [1m[36mItem Destroy (0.3ms)[0m  [1m[31mDELETE FROM "items" WHERE "items"."id" = ?[0m  [["id", 1]]
+  ↳ app/controllers/items_controller.rb:35:in `destroy'
+  [1m[36mTRANSACTION (2.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/items_controller.rb:35:in `destroy'
+Redirected to http://127.0.0.1:3000/items
+Completed 302 Found in 14ms (ActiveRecord: 2.9ms | Allocations: 4653)
+
+
+Started GET "/items" for 127.0.0.1 at 2022-06-27 15:15:53 +0700
+Processing by ItemsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering items/index.html.erb within layouts/application
+  [1m[36mItem Load (0.2ms)[0m  [1m[34mSELECT "items".* FROM "items"[0m
+  ↳ app/views/items/index.html.erb:10
+  Rendered items/index.html.erb within layouts/application (Duration: 3.4ms | Allocations: 1102)
+  Rendered layout layouts/application.html.erb (Duration: 5.5ms | Allocations: 2044)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.2ms | Allocations: 2374)
+
+
+Started GET "/items/new" for 127.0.0.1 at 2022-06-27 15:15:56 +0700
+Processing by ItemsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering items/new.html.erb within layouts/application
+  Rendered items/new.html.erb within layouts/application (Duration: 8.5ms | Allocations: 3979)
+  Rendered layout layouts/application.html.erb (Duration: 9.8ms | Allocations: 4917)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms | Allocations: 5334)
+
+
+Started POST "/items" for 127.0.0.1 at 2022-06-27 15:16:03 +0700
+Processing by ItemsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "item"=>{"name"=>"Nasi goreng", "price"=>"20.000"}, "commit"=>"Create Item"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/items_controller.rb:15:in `create'
+  [1m[36mItem Create (0.3ms)[0m  [1m[32mINSERT INTO "items" ("name", "price", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Nasi goreng"], ["price", "20.000"], ["created_at", "2022-06-27 08:16:03.445744"], ["updated_at", "2022-06-27 08:16:03.445744"]]
+  ↳ app/controllers/items_controller.rb:15:in `create'
+  [1m[36mTRANSACTION (1.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/items_controller.rb:15:in `create'
+Redirected to http://127.0.0.1:3000/items
+Completed 302 Found in 7ms (ActiveRecord: 2.0ms | Allocations: 3059)
+
+
+Started GET "/items" for 127.0.0.1 at 2022-06-27 15:16:03 +0700
+Processing by ItemsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering items/index.html.erb within layouts/application
+  [1m[36mItem Load (0.2ms)[0m  [1m[34mSELECT "items".* FROM "items"[0m
+  ↳ app/views/items/index.html.erb:10
+  Rendered items/index.html.erb within layouts/application (Duration: 3.3ms | Allocations: 1268)
+  Rendered layout layouts/application.html.erb (Duration: 5.7ms | Allocations: 2206)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.2ms | Allocations: 2535)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-27 15:30:22 +0700
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/madjiebimaa/.rvm/gems/ruby-3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/madjiebimaa/.rvm/gems/ruby-3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 721)
+Completed 200 OK in 21ms (Views: 11.3ms | ActiveRecord: 0.0ms | Allocations: 6946)
+
+
+Started GET "/items" for 127.0.0.1 at 2022-06-27 15:30:26 +0700
+Processing by ItemsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering items/index.html.erb within layouts/application
+  [1m[36mItem Load (0.2ms)[0m  [1m[34mSELECT "items".* FROM "items"[0m
+  ↳ app/views/items/index.html.erb:10
+  Rendered items/index.html.erb within layouts/application (Duration: 16.1ms | Allocations: 6631)
+  Rendered layout layouts/application.html.erb (Duration: 163.6ms | Allocations: 74726)
+Completed 200 OK in 168ms (Views: 164.4ms | ActiveRecord: 0.6ms | Allocations: 76464)
+
+

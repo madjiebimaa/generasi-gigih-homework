@@ -1,0 +1,27 @@
+<h1> Items </h1>
+<table>
+  <thead>
+    <tr>
+        <td><b>Name</b></td>
+        <td><b>Price</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <% @items.each do |item| %>
+      <tr>
+        <td><%= item.name %></td>
+        <td><%= item.price %></td>
+        <td>
+          <%= link_to("Show", item_path(item)) %>
+        </td>
+        <td>
+          <%= link_to("Edit", edit_item_path(item)) %>
+        </td>
+        <td>
+          <%= button_to("Delete", item_path(item), {method: "delete"}) %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+<%= link_to("New Item", new_item_path) %>

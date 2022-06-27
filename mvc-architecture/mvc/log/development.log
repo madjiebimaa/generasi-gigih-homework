@@ -1,0 +1,2103 @@
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:27:54 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.3ms | Allocations: 815)
+Completed 200 OK in 31ms (Views: 12.9ms | ActiveRecord: 0.0ms | Allocations: 7620)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:28:04 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:28:06 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 319)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:28:24 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:28:25 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:28:25 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 21)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:28:38 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:28:38 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 21)
+Completed 200 OK in 16ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:29:48 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:29:48 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | Allocations: 782)
+Completed 200 OK in 17ms (Views: 7.5ms | ActiveRecord: 0.0ms | Allocations: 6640)
+
+
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.3ms | Allocations: 1459)
+Completed 200 OK in 20ms (Views: 9.1ms | ActiveRecord: 0.0ms | Allocations: 8065)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:30:26 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 710)
+Completed 200 OK in 12ms (Views: 4.4ms | ActiveRecord: 0.0ms | Allocations: 6348)
+
+
+Started GET "/" for 73.254.189.183 at 2022-01-26 00:30:29 +0000
+Cannot render console from 73.254.189.183! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 392)
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.0ms | Allocations: 1415)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:31:33 +0000
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:31:33 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.0ms | Allocations: 733)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.9ms | Allocations: 214)
+Completed 200 OK in 26ms (Views: 10.3ms | ActiveRecord: 0.0ms | Allocations: 6810)
+
+
+Completed 200 OK in 28ms (Views: 11.4ms | ActiveRecord: 0.0ms | Allocations: 7215)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:32:50 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:33:42 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:33:42 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.8ms | Allocations: 740)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 616)
+Completed 200 OK in 24ms (Views: 11.3ms | ActiveRecord: 0.0ms | Allocations: 7154)
+
+
+Completed 200 OK in 23ms (Views: 11.1ms | ActiveRecord: 0.0ms | Allocations: 6785)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:34:08 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 329)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:34:09 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:34:10 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:34:13 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:36:01 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:36:02 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:36:02 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:36:02 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:36:02 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:36:03 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 21)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:36:04 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:36:06 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 21)
+Completed 200 OK in 2ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:36:07 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:36:37 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 710)
+Completed 200 OK in 13ms (Views: 5.0ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:36:38 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:37:39 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 318)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:37:41 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.7ms | Allocations: 22)
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:37:58 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:38:00 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:38:22 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:38:24 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:39:17 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:39:20 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:39:20 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:39:21 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:39:21 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:39:22 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:42:47 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | Allocations: 284)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:42:47 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | Allocations: 284)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:43:22 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | Allocations: 284)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:45:51 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.4ms | Allocations: 710)
+Completed 200 OK in 19ms (Views: 8.9ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:46:41 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.9ms | Allocations: 1397)
+
+
+Started GET "/" for 68.12.146.175 at 2022-01-26 00:47:46 +0000
+Cannot render console from 68.12.146.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.4ms | Allocations: 710)
+Completed 200 OK in 15ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 172.18.0.1 at 2022-01-28 00:48:31 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 815)
+Completed 200 OK in 19ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 7618)
+
+
+Started GET "/" for 37.99.37.24 at 2022-01-28 01:48:09 +0000
+Cannot render console from 37.99.37.24! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 392)
+Completed 200 OK in 4ms (Views: 3.2ms | Allocations: 1403)
+
+
+Started GET "/" for 172.18.0.1 at 2022-01-28 05:32:56 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.4ms | Allocations: 710)
+Completed 200 OK in 15ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 202.173.127.105 at 2022-01-28 05:32:57 +0000
+Cannot render console from 202.173.127.105! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-02-02 03:49:05 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.1ms | Allocations: 710)
+Completed 200 OK in 13ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 172.18.0.1 at 2022-02-02 08:04:13 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.4ms | Allocations: 710)
+Completed 200 OK in 16ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 188.243.182.110 at 2022-02-02 08:04:13 +0000
+Cannot render console from 188.243.182.110! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-02-03 15:47:23 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 710)
+Completed 200 OK in 14ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 192.182.157.254 at 2022-02-03 15:47:23 +0000
+Cannot render console from 192.182.157.254! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-02-06 22:25:22 +0000
+Started GET "/" for 172.18.0.1 at 2022-02-06 22:25:22 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 698)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.7ms | Allocations: 747)
+Completed 200 OK in 16ms (Views: 8.1ms | ActiveRecord: 0.0ms | Allocations: 6835)
+
+
+Completed 200 OK in 18ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 7247)
+
+
+Started GET "/" for 172.18.0.1 at 2022-02-07 20:32:19 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.5ms | Allocations: 710)
+Completed 200 OK in 21ms (Views: 8.3ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 70.112.171.58 at 2022-02-07 20:32:19 +0000
+Cannot render console from 70.112.171.58! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 389)
+Completed 200 OK in 6ms (Views: 4.0ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-02-10 09:59:49 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.7ms | Allocations: 710)
+Completed 200 OK in 15ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 82.216.39.161 at 2022-02-10 09:59:49 +0000
+Cannot render console from 82.216.39.161! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-02-10 16:56:30 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.7ms | Allocations: 710)
+Completed 200 OK in 16ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 6348)
+
+
+Started GET "/" for 98.26.82.98 at 2022-02-10 16:56:31 +0000
+Cannot render console from 98.26.82.98! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-02-12 02:40:38 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.7ms | Allocations: 710)
+Completed 200 OK in 17ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 172.18.0.1 at 2022-02-12 07:57:02 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.5ms | Allocations: 710)
+Completed 200 OK in 16ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 220.90.241.118 at 2022-02-12 07:57:02 +0000
+Cannot render console from 220.90.241.118! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-02-15 03:09:47 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.0ms | Allocations: 710)
+Completed 200 OK in 16ms (Views: 7.5ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 76.31.138.244 at 2022-02-15 03:09:47 +0000
+Cannot render console from 76.31.138.244! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-02-16 13:19:59 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 172.18.0.1 at 2022-02-16 13:19:59 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.1ms | Allocations: 747)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.4ms | Allocations: 695)
+Completed 200 OK in 76ms (Views: 9.6ms | ActiveRecord: 0.0ms | Allocations: 7149)
+
+
+Completed 200 OK in 75ms (Views: 9.4ms | ActiveRecord: 0.0ms | Allocations: 6930)
+
+
+Started GET "/" for 96.84.203.137 at 2022-02-16 13:19:59 +0000
+Cannot render console from 96.84.203.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 1408)
+
+
+Started GET "/" for 172.18.0.1 at 2022-02-18 12:48:05 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.0ms | Allocations: 710)
+Completed 200 OK in 14ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 172.18.0.1 at 2022-02-20 16:08:03 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.5ms | Allocations: 710)
+Completed 200 OK in 24ms (Views: 10.3ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 172.18.0.1 at 2022-03-15 14:32:45 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 172.18.0.1 at 2022-03-15 14:32:45 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 57.3ms | Allocations: 740)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.4ms | Allocations: 696)
+Completed 200 OK in 79ms (Views: 66.1ms | ActiveRecord: 0.0ms | Allocations: 7158)
+
+
+Completed 200 OK in 78ms (Views: 66.0ms | ActiveRecord: 0.0ms | Allocations: 6928)
+
+
+Started GET "/" for 172.18.0.1 at 2022-03-21 08:42:22 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.1ms | Allocations: 710)
+Completed 200 OK in 13ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 164.39.14.134 at 2022-03-21 08:42:22 +0000
+Cannot render console from 164.39.14.134! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-03-21 17:35:00 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.5ms | Allocations: 710)
+Completed 200 OK in 18ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 69.255.221.234 at 2022-03-21 17:35:00 +0000
+Cannot render console from 69.255.221.234! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-28 23:34:34 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.4ms | Allocations: 815)
+Completed 200 OK in 23ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 7621)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-28 23:34:59 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 389)
+Completed 200 OK in 7ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 00:00:56 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 1.0ms | Allocations: 314)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 00:47:15 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.9ms | Allocations: 289)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 00:47:49 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 188.151.102.94 at 2022-03-29 00:47:49 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.1ms | Allocations: 695)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.1ms | Allocations: 740)
+Completed 200 OK in 19ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 7155)
+
+
+Completed 200 OK in 18ms (Views: 9.5ms | ActiveRecord: 0.0ms | Allocations: 6911)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 00:48:38 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 329)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 00:49:01 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 21)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 00:49:03 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 00:53:56 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 00:53:58 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 00:54:01 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/posts"):
+  
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (54.8ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (31.4ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreatePosts (20220329005836)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "posts" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "title" varchar, "content" text, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20220329005836"]]
+  [1m[36mTRANSACTION (39.3ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Create (0.3ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2022-03-29 00:59:09.376129"], ["updated_at", "2022-03-29 00:59:09.376129"]]
+  [1m[36mTRANSACTION (38.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for 188.151.102.94 at 2022-03-29 00:59:36 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.6ms | Allocations: 710)
+Completed 200 OK in 16ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 6362)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 00:59:40 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+NameError (uninitialized constant ApplicationController
+Did you mean?  ApplicationRecord):
+  
+app/controllers/posts_controller.rb:1:in `<main>'
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:00:02 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 1333)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:00:04 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+NameError (uninitialized constant ApplicationController
+Did you mean?  ApplicationRecord):
+  
+app/controllers/posts_controller.rb:1:in `<main>'
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:01:09 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 710)
+Completed 200 OK in 10ms (Views: 3.9ms | ActiveRecord: 0.0ms | Allocations: 6362)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:01:12 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.9ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 1410)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:01:15 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+NameError (uninitialized constant ApplicationController
+Did you mean?  ApplicationRecord):
+  
+app/controllers/posts_controller.rb:1:in `<main>'
+  [1m[35m (2.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:02:55 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:02:55 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.9ms | Allocations: 740)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 695)
+Completed 200 OK in 12ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 7166)
+
+
+Completed 200 OK in 12ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 6937)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:06:00 +0000
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:06:00 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.6ms | Allocations: 740)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.9ms | Allocations: 707)
+Completed 200 OK in 16ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 7156)
+
+
+Completed 200 OK in 16ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 6937)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:06:52 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 329)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:06:59 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/index.html.erb within layouts/application (Duration: 6.8ms | Allocations: 1375)
+  Rendered layout layouts/application.html.erb (Duration: 266.8ms | Allocations: 73555)
+Completed 200 OK in 274ms (Views: 269.9ms | ActiveRecord: 0.2ms | Allocations: 75606)
+
+
+Started GET "/posts/new" for 188.151.102.94 at 2022-03-29 01:07:21 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/_form.html.erb (Duration: 17.0ms | Allocations: 5693)
+  Rendered posts/new.html.erb within layouts/application (Duration: 18.2ms | Allocations: 6070)
+  Rendered layout layouts/application.html.erb (Duration: 20.6ms | Allocations: 7146)
+Completed 200 OK in 38ms (Views: 21.3ms | ActiveRecord: 0.7ms | Allocations: 12727)
+
+
+Started POST "/posts" for 188.151.102.94 at 2022-03-29 01:07:26 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "post"=>{"name"=>"test", "title"=>"test", "content"=>"testestest"}, "commit"=>"Create Post"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+  [1m[36mPost Create (0.5ms)[0m  [1m[32mINSERT INTO "posts" ("name", "title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "test"], ["title", "test"], ["content", "testestest"], ["created_at", "2022-03-29 01:07:26.476745"], ["updated_at", "2022-03-29 01:07:26.476745"]]
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (35.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+Redirected to https://mvc-architecture-solution.gojek22.repl.co/posts/1
+Completed 302 Found in 43ms (ActiveRecord: 36.3ms | Allocations: 3813)
+
+
+Started GET "/posts/1" for 188.151.102.94 at 2022-03-29 01:07:26 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/posts_controller.rb:63:in `set_post'
+  Rendering layout layouts/application.html.erb
+  Rendering posts/show.html.erb within layouts/application
+  Rendered posts/_post.html.erb (Duration: 0.8ms | Allocations: 280)
+  Rendered posts/show.html.erb within layouts/application (Duration: 5.1ms | Allocations: 1583)
+  Rendered layout layouts/application.html.erb (Duration: 7.4ms | Allocations: 2630)
+Completed 200 OK in 14ms (Views: 8.2ms | ActiveRecord: 0.3ms | Allocations: 5672)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:07:29 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/index.html.erb within layouts/application (Duration: 2.8ms | Allocations: 1024)
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | Allocations: 1996)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.2ms | Allocations: 2361)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:15:02 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:15:02 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 740)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 693)
+Completed 200 OK in 12ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 7168)
+
+
+Completed 200 OK in 12ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 6941)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:16:25 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.6ms | Allocations: 303)
+  Rendered posts/index.html.erb within layouts/application (Duration: 14.5ms | Allocations: 7516)
+  Rendered layout layouts/application.html.erb (Duration: 2031.8ms | Allocations: 86243)
+Completed 200 OK in 2036ms (Views: 2032.7ms | ActiveRecord: 0.7ms | Allocations: 88259)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:19:29 +0000
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:19:29 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.9ms | Allocations: 740)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 693)
+Completed 200 OK in 13ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 7169)
+
+
+Completed 200 OK in 13ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 6791)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:20:47 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 329)
+
+
+Started GET "/" for 172.18.0.1 at 2022-03-29 01:21:13 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 172.18.0.1 at 2022-03-29 01:21:13 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:21:13 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Started GET "/" for 172.18.0.1 at 2022-03-29 01:21:13 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.3ms | Allocations: 961)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.4ms | Allocations: 872)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.3ms | Allocations: 859)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 39)
+Completed 200 OK in 26ms (Views: 16.7ms | ActiveRecord: 0.0ms | Allocations: 7147)
+
+
+Completed 200 OK in 27ms (Views: 15.5ms | ActiveRecord: 0.0ms | Allocations: 7193)
+
+
+Completed 200 OK in 27ms (Views: 15.7ms | ActiveRecord: 0.0ms | Allocations: 7223)
+
+
+Completed 200 OK in 29ms (Views: 16.4ms | ActiveRecord: 0.0ms | Allocations: 7767)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:21:13 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.7ms | Allocations: 303)
+  Rendered posts/index.html.erb within layouts/application (Duration: 19.8ms | Allocations: 7593)
+  Rendered layout layouts/application.html.erb (Duration: 2405.6ms | Allocations: 79280)
+Completed 200 OK in 2411ms (Views: 2407.6ms | ActiveRecord: 0.7ms | Allocations: 81463)
+
+
+Started GET "/posts/1" for 188.151.102.94 at 2022-03-29 01:21:44 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.5ms)[0m  [1m[34mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/posts_controller.rb:63:in `set_post'
+  Rendering layout layouts/application.html.erb
+  Rendering posts/show.html.erb within layouts/application
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 31)
+  Rendered posts/show.html.erb within layouts/application (Duration: 2.5ms | Allocations: 890)
+  Rendered layout layouts/application.html.erb (Duration: 10.3ms | Allocations: 5756)
+Completed 200 OK in 35ms (Views: 11.8ms | ActiveRecord: 0.5ms | Allocations: 12734)
+
+
+Started DELETE "/posts/1" for 188.151.102.94 at 2022-03-29 01:21:45 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "id"=>"1"}
+  [1m[36mPost Load (0.1ms)[0m  [1m[34mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/posts_controller.rb:63:in `set_post'
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/posts_controller.rb:52:in `destroy'
+  [1m[36mPost Destroy (7.3ms)[0m  [1m[31mDELETE FROM "posts" WHERE "posts"."id" = ?[0m  [["id", 1]]
+  ↳ app/controllers/posts_controller.rb:52:in `destroy'
+  [1m[36mTRANSACTION (122.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/posts_controller.rb:52:in `destroy'
+Redirected to https://mvc-architecture-solution.gojek22.repl.co/posts
+Completed 302 Found in 137ms (ActiveRecord: 130.3ms | Allocations: 2944)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:21:46 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.1ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/index.html.erb within layouts/application (Duration: 1.7ms | Allocations: 798)
+  Rendered layout layouts/application.html.erb (Duration: 8.9ms | Allocations: 5682)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.1ms | Allocations: 6052)
+
+
+Started GET "/posts/new" for 188.151.102.94 at 2022-03-29 01:21:48 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/_form.html.erb (Duration: 8.6ms | Allocations: 3930)
+  Rendered posts/new.html.erb within layouts/application (Duration: 9.8ms | Allocations: 4292)
+  Rendered layout layouts/application.html.erb (Duration: 18.1ms | Allocations: 9179)
+Completed 200 OK in 20ms (Views: 18.9ms | ActiveRecord: 0.0ms | Allocations: 9644)
+
+
+Started POST "/posts" for 188.151.102.94 at 2022-03-29 01:22:28 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "post"=>{"name"=>"Si Gigih", "title"=>"Perjalanan Menjadi Dewa Koding", "content"=>"Hari ini saya belajar MVC agar bisa menjadi dewa koding, kerjaan santai, gaji tinggi, dan pasangan idaman suatu hari nanti."}, "commit"=>"Create Post"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+  [1m[36mPost Create (0.5ms)[0m  [1m[32mINSERT INTO "posts" ("name", "title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Si Gigih"], ["title", "Perjalanan Menjadi Dewa Koding"], ["content", "Hari ini saya belajar MVC agar bisa menjadi dewa koding, kerjaan santai, gaji tinggi, dan pasangan idaman suatu hari nanti."], ["created_at", "2022-03-29 01:22:28.707732"], ["updated_at", "2022-03-29 01:22:28.707732"]]
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (79.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+Redirected to https://mvc-architecture-solution.gojek22.repl.co/posts/2
+Completed 302 Found in 89ms (ActiveRecord: 80.1ms | Allocations: 3440)
+
+
+Started GET "/posts/2" for 188.151.102.94 at 2022-03-29 01:22:28 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/posts_controller.rb:63:in `set_post'
+  Rendering layout layouts/application.html.erb
+  Rendering posts/show.html.erb within layouts/application
+  Rendered posts/_post.html.erb (Duration: 0.8ms | Allocations: 29)
+  Rendered posts/show.html.erb within layouts/application (Duration: 9.1ms | Allocations: 519)
+  Rendered layout layouts/application.html.erb (Duration: 45.3ms | Allocations: 5288)
+Completed 200 OK in 48ms (Views: 46.2ms | ActiveRecord: 0.2ms | Allocations: 6135)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:22:34 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 27)
+  Rendered posts/index.html.erb within layouts/application (Duration: 2.2ms | Allocations: 912)
+  Rendered layout layouts/application.html.erb (Duration: 35.4ms | Allocations: 5701)
+Completed 200 OK in 37ms (Views: 35.9ms | ActiveRecord: 0.2ms | Allocations: 6032)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:34:36 +0000
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:34:36 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | Allocations: 739)
+Completed 200 OK in 18ms (Views: 10.0ms | ActiveRecord: 0.0ms | Allocations: 6789)
+
+
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.3ms | Allocations: 1195)
+Completed 200 OK in 21ms (Views: 12.0ms | ActiveRecord: 0.0ms | Allocations: 7913)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:36:01 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.5ms | Allocations: 21)
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms | Allocations: 329)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:36:06 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:36:07 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:36:08 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:36:10 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.9ms | Allocations: 308)
+  Rendered posts/index.html.erb within layouts/application (Duration: 25.5ms | Allocations: 7577)
+  Rendered layout layouts/application.html.erb (Duration: 2821.0ms | Allocations: 206670)
+Completed 500 Internal Server Error in 2826ms (ActiveRecord: 0.9ms | Allocations: 208674)
+
+
+  
+ActionView::Template::Error (Asset `application.js` was not declared to be precompiled in production.
+Declare links to your assets in `app/assets/config/manifest.js`.
+
+  //= link application.js
+
+and restart your server):
+     8: 
+     9:     <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+    10: 
+    11:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    12:   </head>
+    13: 
+    14:   <body>
+  
+app/views/layouts/application.html.erb:11
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:38:01 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.3ms | Allocations: 710)
+Completed 200 OK in 16ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 6362)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:38:05 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | Allocations: 389)
+Completed 200 OK in 6ms (Views: 3.9ms | ActiveRecord: 0.0ms | Allocations: 1410)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:38:08 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.6ms | Allocations: 305)
+  Rendered posts/index.html.erb within layouts/application (Duration: 39.2ms | Allocations: 7591)
+  Rendered layout layouts/application.html.erb (Duration: 204.6ms | Allocations: 56203)
+Completed 200 OK in 210ms (Views: 206.0ms | ActiveRecord: 1.0ms | Allocations: 58232)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:39:40 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.2ms | Allocations: 27)
+  Rendered posts/index.html.erb within layouts/application (Duration: 8.7ms | Allocations: 1014)
+  Rendered layout layouts/application.html.erb (Duration: 58.9ms | Allocations: 9192)
+Completed 200 OK in 61ms (Views: 60.4ms | ActiveRecord: 0.2ms | Allocations: 9566)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:40:00 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.1ms | Allocations: 710)
+Completed 200 OK in 12ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 6362)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:40:03 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 1410)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:40:06 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.8ms | Allocations: 305)
+  Rendered posts/index.html.erb within layouts/application (Duration: 22.4ms | Allocations: 7590)
+  Rendered layout layouts/application.html.erb (Duration: 164.6ms | Allocations: 48080)
+Completed 200 OK in 170ms (Views: 165.7ms | ActiveRecord: 0.9ms | Allocations: 50110)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:41:34 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 25)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 335)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:50:13 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 711)
+Completed 200 OK in 10ms (Views: 4.0ms | ActiveRecord: 0.0ms | Allocations: 6363)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:50:16 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 389)
+Completed 200 OK in 5ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 1410)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:50:23 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.8ms | Allocations: 305)
+  Rendered posts/index.html.erb within layouts/application (Duration: 22.3ms | Allocations: 7587)
+  Rendered layout layouts/application.html.erb (Duration: 219.9ms | Allocations: 50262)
+Completed 200 OK in 225ms (Views: 221.1ms | ActiveRecord: 0.8ms | Allocations: 52292)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:51:23 +0000
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:51:23 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.1ms | Allocations: 727)
+Completed 200 OK in 15ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 6098)
+
+
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 22)
+Completed 200 OK in 19ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 7445)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:52:04 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.8ms | Allocations: 305)
+  Rendered posts/index.html.erb within layouts/application (Duration: 74.5ms | Allocations: 7620)
+  Rendered layout layouts/application.html.erb (Duration: 215.7ms | Allocations: 47722)
+Completed 200 OK in 220ms (Views: 216.7ms | ActiveRecord: 1.0ms | Allocations: 49739)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:52:46 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mCACHE Post Load (0.0ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.2ms | Allocations: 25)
+  Rendered posts/index.html.erb within layouts/application (Duration: 3.3ms | Allocations: 966)
+  Rendered layout layouts/application.html.erb (Duration: 20.7ms | Allocations: 9142)
+Completed 200 OK in 23ms (Views: 21.8ms | ActiveRecord: 0.0ms | Allocations: 9506)
+
+
+Started GET "/posts/2" for 188.151.102.94 at 2022-03-29 01:52:48 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/posts_controller.rb:63:in `set_post'
+  Rendering layout layouts/application.html.erb
+  Rendering posts/show.html.erb within layouts/application
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 33)
+  Rendered posts/show.html.erb within layouts/application (Duration: 3.0ms | Allocations: 884)
+  Rendered layout layouts/application.html.erb (Duration: 18.0ms | Allocations: 9134)
+Completed 200 OK in 36ms (Views: 18.9ms | ActiveRecord: 0.2ms | Allocations: 16070)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:52:50 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mCACHE Post Load (0.1ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.2ms | Allocations: 25)
+  Rendered posts/index.html.erb within layouts/application (Duration: 7.4ms | Allocations: 858)
+  Rendered layout layouts/application.html.erb (Duration: 34.5ms | Allocations: 9033)
+Completed 200 OK in 38ms (Views: 36.7ms | ActiveRecord: 0.1ms | Allocations: 9366)
+
+
+Started GET "/posts/new" for 188.151.102.94 at 2022-03-29 01:52:51 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/_form.html.erb (Duration: 7.7ms | Allocations: 3911)
+  Rendered posts/new.html.erb within layouts/application (Duration: 9.5ms | Allocations: 4241)
+  Rendered layout layouts/application.html.erb (Duration: 19.6ms | Allocations: 12512)
+Completed 200 OK in 21ms (Views: 20.2ms | ActiveRecord: 0.0ms | Allocations: 12958)
+
+
+Started POST "/posts" for 188.151.102.94 at 2022-03-29 01:53:33 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "post"=>{"name"=>"Zanya", "title"=>"Ayo ayo ayo", "content"=>"Semangat semangat semangat"}, "commit"=>"Create Post"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+  [1m[36mPost Create (0.7ms)[0m  [1m[32mINSERT INTO "posts" ("name", "title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Zanya"], ["title", "Ayo ayo ayo"], ["content", "Semangat semangat semangat"], ["created_at", "2022-03-29 01:53:33.984702"], ["updated_at", "2022-03-29 01:53:33.984702"]]
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (62.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+Redirected to https://mvc-architecture-solution.gojek22.repl.co/posts/3
+Completed 302 Found in 72ms (ActiveRecord: 63.7ms | Allocations: 3722)
+
+
+Started GET "/posts/3" for 188.151.102.94 at 2022-03-29 01:53:34 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/posts_controller.rb:63:in `set_post'
+  Rendering layout layouts/application.html.erb
+  Rendering posts/show.html.erb within layouts/application
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 29)
+  Rendered posts/show.html.erb within layouts/application (Duration: 1.9ms | Allocations: 556)
+  Rendered layout layouts/application.html.erb (Duration: 20.7ms | Allocations: 8806)
+Completed 200 OK in 24ms (Views: 21.7ms | ActiveRecord: 0.2ms | Allocations: 9661)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:53:36 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 27)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/index.html.erb within layouts/application (Duration: 6.9ms | Allocations: 1049)
+  Rendered layout layouts/application.html.erb (Duration: 26.8ms | Allocations: 9400)
+Completed 200 OK in 31ms (Views: 29.7ms | ActiveRecord: 0.2ms | Allocations: 9733)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:53:48 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mCACHE Post Load (0.0ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 24)
+  Rendered posts/index.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1003)
+  Rendered layout layouts/application.html.erb (Duration: 21.5ms | Allocations: 9177)
+Completed 200 OK in 23ms (Views: 22.3ms | ActiveRecord: 0.0ms | Allocations: 9506)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:54:25 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.1ms | Allocations: 710)
+Completed 200 OK in 15ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 6362)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:54:29 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 1.2ms | Allocations: 305)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/index.html.erb within layouts/application (Duration: 27.6ms | Allocations: 7785)
+  Rendered layout layouts/application.html.erb (Duration: 157.6ms | Allocations: 47961)
+Completed 200 OK in 165ms (Views: 159.4ms | ActiveRecord: 1.5ms | Allocations: 50063)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:54:59 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.7ms | Allocations: 710)
+Completed 200 OK in 18ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 6362)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:55:03 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.8ms | Allocations: 305)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/index.html.erb within layouts/application (Duration: 18.3ms | Allocations: 7781)
+  Rendered layout layouts/application.html.erb (Duration: 121.8ms | Allocations: 48117)
+Completed 200 OK in 126ms (Views: 123.2ms | ActiveRecord: 0.7ms | Allocations: 50218)
+
+
+Started GET "/posts/new" for 188.151.102.94 at 2022-03-29 01:55:11 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/_form.html.erb (Duration: 10.4ms | Allocations: 3939)
+  Rendered posts/new.html.erb within layouts/application (Duration: 12.0ms | Allocations: 4277)
+  Rendered layout layouts/application.html.erb (Duration: 29.9ms | Allocations: 12552)
+Completed 200 OK in 32ms (Views: 30.7ms | ActiveRecord: 0.0ms | Allocations: 13046)
+
+
+Started POST "/posts" for 188.151.102.94 at 2022-03-29 01:55:21 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "post"=>{"name"=>"Bale", "title"=>"Teman teman", "content"=>"Kalo ada pertanyaan ping me ya"}, "commit"=>"Create Post"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+  [1m[36mPost Create (0.5ms)[0m  [1m[32mINSERT INTO "posts" ("name", "title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Bale"], ["title", "Teman teman"], ["content", "Kalo ada pertanyaan ping me ya"], ["created_at", "2022-03-29 01:55:21.510021"], ["updated_at", "2022-03-29 01:55:21.510021"]]
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (59.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+Redirected to https://mvc-architecture-solution.gojek22.repl.co/posts/4
+Completed 302 Found in 67ms (ActiveRecord: 60.1ms | Allocations: 3810)
+
+
+Started GET "/posts/4" for 188.151.102.94 at 2022-03-29 01:55:21 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/posts_controller.rb:63:in `set_post'
+  Rendering layout layouts/application.html.erb
+  Rendering posts/show.html.erb within layouts/application
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 31)
+  Rendered posts/show.html.erb within layouts/application (Duration: 2.7ms | Allocations: 870)
+  Rendered layout layouts/application.html.erb (Duration: 21.2ms | Allocations: 9122)
+Completed 200 OK in 28ms (Views: 22.0ms | ActiveRecord: 0.3ms | Allocations: 12134)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:55:23 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 27)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/index.html.erb within layouts/application (Duration: 3.9ms | Allocations: 1195)
+  Rendered layout layouts/application.html.erb (Duration: 22.9ms | Allocations: 9372)
+Completed 200 OK in 24ms (Views: 23.6ms | ActiveRecord: 0.2ms | Allocations: 9714)
+
+
+Started GET "/posts/new" for 188.151.102.94 at 2022-03-29 01:55:27 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/_form.html.erb (Duration: 2.6ms | Allocations: 1059)
+  Rendered posts/new.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1155)
+  Rendered layout layouts/application.html.erb (Duration: 31.6ms | Allocations: 9317)
+Completed 200 OK in 33ms (Views: 32.4ms | ActiveRecord: 0.0ms | Allocations: 9655)
+
+
+Started POST "/posts" for 188.151.102.94 at 2022-03-29 01:55:36 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "post"=>{"name"=>"Savira", "title"=>"Dikumpulin ya", "content"=>"PRnya, jangan lupa"}, "commit"=>"Create Post"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+  [1m[36mPost Create (0.5ms)[0m  [1m[32mINSERT INTO "posts" ("name", "title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Savira"], ["title", "Dikumpulin ya"], ["content", "PRnya, jangan lupa"], ["created_at", "2022-03-29 01:55:36.861490"], ["updated_at", "2022-03-29 01:55:36.861490"]]
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (113.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+Redirected to https://mvc-architecture-solution.gojek22.repl.co/posts/5
+Completed 302 Found in 121ms (ActiveRecord: 114.3ms | Allocations: 2416)
+
+
+Started GET "/posts/5" for 188.151.102.94 at 2022-03-29 01:55:37 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mPost Load (0.1ms)[0m  [1m[34mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/posts_controller.rb:63:in `set_post'
+  Rendering layout layouts/application.html.erb
+  Rendering posts/show.html.erb within layouts/application
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/show.html.erb within layouts/application (Duration: 1.1ms | Allocations: 513)
+  Rendered layout layouts/application.html.erb (Duration: 10.1ms | Allocations: 8670)
+Completed 200 OK in 13ms (Views: 10.7ms | ActiveRecord: 0.1ms | Allocations: 9472)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:55:38 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 27)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.2ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 24)
+  Rendered posts/index.html.erb within layouts/application (Duration: 7.2ms | Allocations: 1331)
+  Rendered layout layouts/application.html.erb (Duration: 65.6ms | Allocations: 9506)
+Completed 200 OK in 77ms (Views: 68.3ms | ActiveRecord: 0.2ms | Allocations: 9836)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:56:02 +0000
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:56:02 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 727)
+Completed 200 OK in 11ms (Views: 4.4ms | ActiveRecord: 0.0ms | Allocations: 6098)
+
+
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 22)
+Completed 200 OK in 14ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 7445)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 01:56:47 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.9ms | Allocations: 305)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 24)
+  Rendered posts/index.html.erb within layouts/application (Duration: 23.7ms | Allocations: 8053)
+  Rendered layout layouts/application.html.erb (Duration: 125.5ms | Allocations: 48192)
+Completed 200 OK in 130ms (Views: 126.2ms | ActiveRecord: 1.1ms | Allocations: 50209)
+
+
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:58:44 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 188.151.102.94 at 2022-03-29 01:58:44 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.1ms | Allocations: 740)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.8ms | Allocations: 693)
+Completed 200 OK in 20ms (Views: 9.2ms | ActiveRecord: 0.0ms | Allocations: 7162)
+
+
+Completed 200 OK in 19ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 6795)
+
+
+Started GET "/posts" for 188.151.102.94 at 2022-03-29 02:00:50 +0000
+Cannot render console from 188.151.102.94! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.8ms | Allocations: 305)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 24)
+  Rendered posts/index.html.erb within layouts/application (Duration: 20.0ms | Allocations: 8042)
+  Rendered layout layouts/application.html.erb (Duration: 121.5ms | Allocations: 48196)
+Completed 200 OK in 126ms (Views: 122.5ms | ActiveRecord: 0.7ms | Allocations: 50218)
+
+
+Started GET "/" for 172.18.0.1 at 2022-03-30 10:25:20 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.7ms | Allocations: 710)
+Completed 200 OK in 18ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 6360)
+
+
+Started GET "/posts" for 103.124.196.210 at 2022-03-30 10:25:20 +0000
+Cannot render console from 103.124.196.210! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 1.1ms | Allocations: 305)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 24)
+  Rendered posts/index.html.erb within layouts/application (Duration: 23.9ms | Allocations: 7864)
+  Rendered layout layouts/application.html.erb (Duration: 168.0ms | Allocations: 48421)
+Completed 200 OK in 173ms (Views: 169.4ms | ActiveRecord: 0.9ms | Allocations: 50521)
+
+
+Started GET "/posts/4" for 103.124.196.210 at 2022-03-30 10:36:19 +0000
+Cannot render console from 103.124.196.210! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/controllers/posts_controller.rb:63:in `set_post'
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/posts_controller.rb:63:in `set_post'
+  Rendering layout layouts/application.html.erb
+  Rendering posts/show.html.erb within layouts/application
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 32)
+  Rendered posts/show.html.erb within layouts/application (Duration: 2.9ms | Allocations: 920)
+  Rendered layout layouts/application.html.erb (Duration: 17.5ms | Allocations: 9171)
+Completed 200 OK in 45ms (Views: 18.4ms | ActiveRecord: 0.6ms | Allocations: 16699)
+
+
+Started GET "/" for 172.18.0.1 at 2022-03-30 14:34:16 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 172.18.0.1 at 2022-03-30 14:34:16 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.6ms | Allocations: 740)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.1ms | Allocations: 695)
+Completed 200 OK in 15ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 6940)
+
+
+Completed 200 OK in 16ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 7161)
+
+
+Started GET "/" for 172.18.0.1 at 2022-03-30 17:44:33 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 172.18.0.1 at 2022-03-30 17:44:33 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.6ms | Allocations: 748)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.1ms | Allocations: 703)
+Completed 200 OK in 21ms (Views: 9.2ms | ActiveRecord: 0.0ms | Allocations: 7171)
+
+
+Completed 200 OK in 20ms (Views: 8.9ms | ActiveRecord: 0.0ms | Allocations: 6928)
+
+
+Started GET "/posts" for 180.242.193.66 at 2022-03-30 17:44:34 +0000
+Cannot render console from 180.242.193.66! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.6ms | Allocations: 305)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 24)
+  Rendered posts/index.html.erb within layouts/application (Duration: 18.0ms | Allocations: 7860)
+  Rendered layout layouts/application.html.erb (Duration: 134.5ms | Allocations: 48654)
+Completed 200 OK in 139ms (Views: 135.6ms | ActiveRecord: 0.7ms | Allocations: 50753)
+
+
+Started GET "/posts/2" for 180.242.193.66 at 2022-03-30 17:45:34 +0000
+Cannot render console from 180.242.193.66! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/posts_controller.rb:63:in `set_post'
+  Rendering layout layouts/application.html.erb
+  Rendering posts/show.html.erb within layouts/application
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 33)
+  Rendered posts/show.html.erb within layouts/application (Duration: 3.2ms | Allocations: 921)
+  Rendered layout layouts/application.html.erb (Duration: 21.0ms | Allocations: 9171)
+Completed 200 OK in 46ms (Views: 21.9ms | ActiveRecord: 0.3ms | Allocations: 16140)
+
+
+Started GET "/rails/info/routes" for 180.242.193.66 at 2022-03-30 17:45:55 +0000
+Cannot render console from 180.242.193.66! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::InfoController#routes as HTML
+  Rendering layout .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/layouts/application.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application
+  Rendered collection of .bundle/ruby/3.0.0/gems/actionpack-7.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [38 times] (Duration: 12.0ms | Allocations: 6365)
+  Rendered .bundle/ruby/3.0.0/gems/actionpack-7.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (Duration: 3.8ms | Allocations: 1388)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application (Duration: 21.2ms | Allocations: 12309)
+  Rendered layout .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/layouts/application.html.erb (Duration: 22.0ms | Allocations: 12697)
+Completed 200 OK in 25ms (Views: 23.7ms | ActiveRecord: 0.0ms | Allocations: 13939)
+
+
+Started GET "/" for 116.206.8.55 at 2022-03-31 07:35:34 +0000
+Cannot render console from 116.206.8.55! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.9ms | Allocations: 815)
+Completed 200 OK in 24ms (Views: 10.5ms | ActiveRecord: 0.0ms | Allocations: 7635)
+
+
+Started GET "/" for 116.206.8.55 at 2022-03-31 07:35:35 +0000
+Cannot render console from 116.206.8.55! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 389)
+Completed 200 OK in 5ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 1410)
+
+
+Started GET "/posts" for 116.206.8.55 at 2022-03-31 07:35:39 +0000
+Cannot render console from 116.206.8.55! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.6ms | Allocations: 305)
+  Rendered posts/_post.html.erb (Duration: 0.2ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 24)
+  Rendered posts/index.html.erb within layouts/application (Duration: 16.9ms | Allocations: 8072)
+  Rendered layout layouts/application.html.erb (Duration: 128.9ms | Allocations: 48678)
+Completed 200 OK in 135ms (Views: 129.9ms | ActiveRecord: 0.9ms | Allocations: 50746)
+
+
+Started GET "/" for 116.206.8.55 at 2022-03-31 07:36:45 +0000
+Cannot render console from 116.206.8.55! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 24)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 328)
+
+
+Started GET "/" for 172.18.0.1 at 2022-03-31 08:59:44 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.4ms | Allocations: 710)
+Completed 200 OK in 15ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 6360)
+
+
+Started GET "/posts" for 116.206.37.233 at 2022-03-31 08:59:44 +0000
+Cannot render console from 116.206.37.233! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as */*
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.7ms | Allocations: 305)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 24)
+  Rendered posts/index.html.erb within layouts/application (Duration: 19.9ms | Allocations: 7904)
+  Rendered layout layouts/application.html.erb (Duration: 123.0ms | Allocations: 48527)
+Completed 200 OK in 127ms (Views: 123.8ms | ActiveRecord: 0.8ms | Allocations: 50747)
+
+
+Started GET "/" for 116.206.8.9 at 2022-06-27 08:20:25 +0000
+Cannot render console from 116.206.8.9! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.9ms | Allocations: 710)
+Completed 200 OK in 20ms (Views: 8.9ms | ActiveRecord: 0.0ms | Allocations: 6362)
+
+
+Started GET "/" for 116.206.8.9 at 2022-06-27 08:20:29 +0000
+Cannot render console from 116.206.8.9! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 1410)
+
+
+Started GET "/posts" for 116.206.8.9 at 2022-06-27 08:20:57 +0000
+Cannot render console from 116.206.8.9! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.7ms | Allocations: 305)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 24)
+  Rendered posts/index.html.erb within layouts/application (Duration: 17.6ms | Allocations: 7863)
+  Rendered layout layouts/application.html.erb (Duration: 129.2ms | Allocations: 48550)
+Completed 200 OK in 134ms (Views: 130.0ms | ActiveRecord: 0.9ms | Allocations: 50579)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-27 15:39:29 +0700
+  [1m[35m (2.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (4.6ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (14.4ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+You have 1 pending migration:
+
+20220329005836_create_posts.rb
+
+
+):
+  
+activerecord (7.0.1) lib/active_record/migration.rb:627:in `check_pending!'
+activerecord (7.0.1) lib/active_record/migration.rb:592:in `block (2 levels) in call'
+activesupport (7.0.1) lib/active_support/file_update_checker.rb:83:in `execute'
+activerecord (7.0.1) lib/active_record/migration.rb:597:in `block in call'
+activerecord (7.0.1) lib/active_record/migration.rb:589:in `synchronize'
+activerecord (7.0.1) lib/active_record/migration.rb:589:in `call'
+actionpack (7.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.1) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.1) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.1) lib/action_dispatch/middleware/show_exceptions.rb:26:in `call'
+railties (7.0.1) lib/rails/rack/logger.rb:36:in `call_app'
+railties (7.0.1) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.1) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.1) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.1) lib/action_dispatch/middleware/server_timing.rb:20:in `call'
+actionpack (7.0.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.1) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.1) lib/action_dispatch/middleware/host_authorization.rb:137:in `call'
+railties (7.0.1) lib/rails/engine.rb:530:in `call'
+puma (5.6.0) lib/puma/configuration.rb:252:in `call'
+puma (5.6.0) lib/puma/request.rb:72:in `block in handle_request'
+puma (5.6.0) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.0) lib/puma/request.rb:71:in `handle_request'
+puma (5.6.0) lib/puma/server.rb:441:in `process_client'
+puma (5.6.0) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreatePosts (20220329005836)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[35mCREATE TABLE "posts" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "title" varchar, "content" text, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20220329005836"]]
+  [1m[36mTRANSACTION (2.5ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.4ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Create (0.4ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2022-06-27 08:39:55.339979"], ["updated_at", "2022-06-27 08:39:55.339979"]]
+  [1m[36mTRANSACTION (1.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for 127.0.0.1 at 2022-06-27 15:39:59 +0700
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/madjiebimaa/.rvm/gems/ruby-3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/madjiebimaa/.rvm/gems/ruby-3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.9ms | Allocations: 617)
+Completed 200 OK in 19ms (Views: 8.5ms | ActiveRecord: 0.0ms | Allocations: 6092)
+
+
+Started GET "/posts" for 127.0.0.1 at 2022-06-27 15:40:04 +0700
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/index.html.erb within layouts/application (Duration: 15.5ms | Allocations: 4932)
+  Rendered layout layouts/application.html.erb (Duration: 3740.2ms | Allocations: 169037)
+Completed 200 OK in 3746ms (Views: 3741.2ms | ActiveRecord: 0.2ms | Allocations: 170824)
+
+
+Started GET "/posts/new" for 127.0.0.1 at 2022-06-27 15:40:11 +0700
+Processing by PostsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/_form.html.erb (Duration: 15.8ms | Allocations: 5640)
+  Rendered posts/new.html.erb within layouts/application (Duration: 17.1ms | Allocations: 5968)
+  Rendered layout layouts/application.html.erb (Duration: 79.4ms | Allocations: 13448)
+Completed 200 OK in 119ms (Views: 81.1ms | ActiveRecord: 10.3ms | Allocations: 18811)
+
+
+Started POST "/posts" for 127.0.0.1 at 2022-06-27 15:40:25 +0700
+Processing by PostsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "post"=>{"name"=>"Adjie", "title"=>"Generasi GIGIH  2.0", "content"=>"Seru banget :)"}, "commit"=>"Create Post"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+  [1m[36mPost Create (0.3ms)[0m  [1m[32mINSERT INTO "posts" ("name", "title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Adjie"], ["title", "Generasi GIGIH  2.0"], ["content", "Seru banget :)"], ["created_at", "2022-06-27 08:40:25.705932"], ["updated_at", "2022-06-27 08:40:25.705932"]]
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (1.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/posts_controller.rb:27:in `block in create'
+Redirected to http://127.0.0.1:3000/posts/1
+Completed 302 Found in 8ms (ActiveRecord: 2.0ms | Allocations: 3388)
+
+
+Started GET "/posts/1" for 127.0.0.1 at 2022-06-27 15:40:25 +0700
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/posts_controller.rb:63:in `set_post'
+  Rendering layout layouts/application.html.erb
+  Rendering posts/show.html.erb within layouts/application
+  Rendered posts/_post.html.erb (Duration: 0.8ms | Allocations: 233)
+  Rendered posts/show.html.erb within layouts/application (Duration: 5.7ms | Allocations: 1290)
+  Rendered layout layouts/application.html.erb (Duration: 15.9ms | Allocations: 8760)
+Completed 200 OK in 26ms (Views: 16.7ms | ActiveRecord: 0.4ms | Allocations: 11464)
+
+
+Started GET "/posts" for 127.0.0.1 at 2022-06-27 15:40:31 +0700
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.1ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/index.html.erb within layouts/application (Duration: 6.4ms | Allocations: 865)
+  Rendered layout layouts/application.html.erb (Duration: 21.8ms | Allocations: 8355)
+Completed 200 OK in 23ms (Views: 22.5ms | ActiveRecord: 0.1ms | Allocations: 8686)
+
+
+Started GET "/posts/1" for 127.0.0.1 at 2022-06-27 15:40:34 +0700
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.1ms)[0m  [1m[34mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/posts_controller.rb:63:in `set_post'
+  Rendering layout layouts/application.html.erb
+  Rendering posts/show.html.erb within layouts/application
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/show.html.erb within layouts/application (Duration: 1.0ms | Allocations: 489)
+  Rendered layout layouts/application.html.erb (Duration: 8.3ms | Allocations: 7957)
+Completed 200 OK in 11ms (Views: 8.9ms | ActiveRecord: 0.1ms | Allocations: 8724)
+
+
+Started GET "/posts" for 127.0.0.1 at 2022-06-27 15:40:35 +0700
+Processing by PostsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.1ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:6
+  Rendered posts/_post.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered posts/index.html.erb within layouts/application (Duration: 2.7ms | Allocations: 859)
+  Rendered layout layouts/application.html.erb (Duration: 10.1ms | Allocations: 8347)
+Completed 200 OK in 12ms (Views: 10.8ms | ActiveRecord: 0.1ms | Allocations: 8670)
+
+
